@@ -1,7 +1,9 @@
-# NetNinja_Lesson_08
+Michael_Clautice, Richmond, VA
+The Net Ninja - Node JS Tutorial for Beginners 
+Lesson 08 - The Node Event Emitter
 
-Node JS Tutorial for Beginners #8 - The Node Event Emitter
+https://www.youtube.com/watch?v=NtrnaTKqFPQ&list=PL4cUxeGkcC9gcy9lrvMJ75z9maRw4byYp&index=8
 
-https://www.youtube.com/watch?v=NtrnaTKqFPQ&amp;list=PL4cUxeGkcC9gcy9lrvMJ75z9maRw4byYp&amp;index=8  
+• Intro to the core module ‘events’ & it’s EventEmitter() method.
 
-Intro to the event emitter in the Node core. The event emitter allows us to wire up custom events to our own objects and then emit those events at a later point in time.
+• EventEmitter() allows us to emit a custom event to the on() method & run a callback function.

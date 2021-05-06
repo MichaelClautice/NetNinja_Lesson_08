@@ -1,9 +1,13 @@
-const events = require('events');
+// Michael_Clautice, Richmond, VA
+// The Net Ninja - Node JS Tutorial for Beginners 
+// Lesson 08 - The Node Event Emitter
+//---------
+const events = require("events");
 
-const myEmitter = new events.EventEmitter();
+const mikesEmitter = new events.EventEmitter();
 
-myEmitter.on('mikesEvent', function(mssg){
+mikesEmitter.on("mikesCustomEvent", function(mssg){
     console.log(mssg);
 });
 
-myEmitter.emit('mikesEvent', 'Mikes Event Was Emitted');
+mikesEmitter.emit("mikesCustomEvent", "Mikes custom event was emitted & the message is Tip Your Bartender!");
