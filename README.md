@@ -8,4 +8,4 @@ https://www.youtube.com/watch?v=NtrnaTKqFPQ&list=PL4cUxeGkcC9gcy9lrvMJ75z9maRw4b
 
 • Intro to the core module ‘events’ and it’s EventEmitter() method.
 
-• EventEmitter() allows us to emit a custom event to the on() method & run a callback function.
+• EventEmitter() allows us to emit a custom event to the on() method and run a callback function.
