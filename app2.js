@@ -25,3 +25,4 @@ people.forEach(function(person){
 
 joe.emit('speak', 'hello dudes');
 ryu.emit('speak', 'I want ice cream');
+
