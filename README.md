@@ -1,4 +1,4 @@
-# NetNinja_Lesson_08
+# NetNinja_NodeJS_Lesson_08
 
 Michael Clautice, Richmond, VA<br>
 The Net Ninja - Node JS Tutorial for Beginners<br>
