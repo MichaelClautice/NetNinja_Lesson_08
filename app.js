@@ -11,4 +11,5 @@ myEmitter.on('mikesEvent', function(mssg){
     console.log(mssg);
 });
 
-myEmitter.emit('mikesEvent', 'Mikes Event Was Emitted');
+myEmitter.emit('mikesEvent', 'Mikes event was emitted');
+

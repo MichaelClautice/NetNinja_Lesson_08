@@ -2,7 +2,7 @@
 
 Michael Clautice, Richmond, VA<br>
 The Net Ninja - Node JS Tutorial for Beginners<br>
-Lesson 08 - The Node Event Emitter
+Lesson 08 - The Node JS Event Emitter
 
 https://www.youtube.com/watch?v=NtrnaTKqFPQ&list=PL4cUxeGkcC9gcy9lrvMJ75z9maRw4byYp&index=8
 

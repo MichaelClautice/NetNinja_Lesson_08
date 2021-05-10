@@ -12,10 +12,10 @@ var Person = function(name){
 
 util.inherits(Person, events.EventEmitter);
 
-var james = new Person('james');
+var joe = new Person('james');
 var mary = new Person('mary');
 var ryu = new Person('ryu');
-var people = [james, mary, ryu];
+var people = [joe, mary, ryu];
 
 people.forEach(function(person){
     person.on('speak', function(mssg){
@@ -23,5 +23,6 @@ people.forEach(function(person){
     })
 });
 
-james.emit('speak', 'hello dudes');
+joe.emit('speak', 'hello dudes');
 ryu.emit('speak', 'I want ice cream');
+
